@@ -22,9 +22,11 @@ This repository contains the initial 3D mechanical design of a simple robotic do
 
 ## Design Screenshots
 
-![Front View](image1.png)
-![Side View](image2.png)
-![Top View](image3.png)
+![Front View](photo_2026-08-12_15-50-28.jpg)
+
+![Side View](photo_2026-08-12_15-50-45.jpg)
+
+![Top View](photo_2026-08-12_15-51-03.jpg)
 
 ## Files Included
 * 3D Model file (`.stl` or `.obj`) exported from Tinkercad.
